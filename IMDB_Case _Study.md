@@ -1,4 +1,4 @@
-# IMDB Case Study
+# 🎬IMDB-Case Study
 
 ## 📌 Solution
 
