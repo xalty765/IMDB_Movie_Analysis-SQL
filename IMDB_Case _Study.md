@@ -303,7 +303,8 @@ WHERE median_rating =8 ;
 
 
 ### Q17. Do German movies get more votes than Italian movies? 
-````sqlSELECT 
+````sql
+SELECT 
     country, SUM(total_votes) AS total_votes
 FROM
     movie AS m
